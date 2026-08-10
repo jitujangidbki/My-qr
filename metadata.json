@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio",
+  "description": "Modern offline QR code generator & scanner with custom styling, logo overlay, high reliability, and local history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
